@@ -1,0 +1,5 @@
+-Installed typescript globally.
+-Add tsconfig.json file
+  -Add "modulesResolution":"node" to tsconfig.json file
+-Install type definitions
+  -`npm i --save-dev @types/node`
